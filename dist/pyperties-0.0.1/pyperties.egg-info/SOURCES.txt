@@ -1,0 +1,7 @@
+README.md
+pyperties.py
+setup.py
+pyperties.egg-info/PKG-INFO
+pyperties.egg-info/SOURCES.txt
+pyperties.egg-info/dependency_links.txt
+pyperties.egg-info/top_level.txt

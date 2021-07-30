@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: pyperties
+Version: 0.0.1
+Summary: a simple .properties file parser
+Home-page: https://github.com/larryonline/pyperties
+Author: larry.zzn
+Author-email: larry.zzn@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - PlanningProgramming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# Pyperties
+
+a simple python `.properties` reader/writer
+
+### How to use this
+1. `pip install pyperties` 
+
+2. do script
+```shell
+import pyperties
+
+FILE_PATH="your .properties file"
+data = pyperties.load(FILE_PATH)
+
+```
+
+
